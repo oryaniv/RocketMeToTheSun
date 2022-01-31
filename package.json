@@ -1,0 +1,27 @@
+{
+  "name": "rocketmetothesun",
+  "version": "1.0.0",
+  "description": "why do you care?",
+  "main": "index.js",
+  "scripts": {
+    "test": "sssst"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oryaniv/RocketMeToTheSun.git"
+  },
+  "keywords": [
+    "rockets",
+    "sun",
+    "heat",
+    "viva",
+    "la",
+    "science"
+  ],
+  "author": "me me me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oryaniv/RocketMeToTheSun/issues"
+  },
+  "homepage": "https://github.com/oryaniv/RocketMeToTheSun#readme"
+}
